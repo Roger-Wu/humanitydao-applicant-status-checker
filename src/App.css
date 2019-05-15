@@ -7,7 +7,7 @@
 }
 
 .footer {
-  position: fixed;
+  position: sticky;
   bottom: 0;
   width: 100%;
   padding: 1rem 0;
