@@ -1,5 +1,9 @@
 # HumanityDAO Applicant Status Checker
 
+A simple tool to check your HumanityDAO proposal status.
+
+Try it here: https://roger-wu.github.io/humanitydao-applicant-status-checker/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
